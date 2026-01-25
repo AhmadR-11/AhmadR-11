@@ -66,8 +66,6 @@ const developer = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadR-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
   </a>
   <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadR-11&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 <br/>
