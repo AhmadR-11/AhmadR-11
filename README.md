@@ -10,17 +10,14 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/ahmad-raza-53482b316/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:ahmadraza792003@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/YDt2clcqcJ">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -38,7 +35,7 @@
 ```typescript
 const ahmad = {
   role: "Full-Stack Web Developer",
-  location: "🌍 Earth",
+  location: "🌍 Lahore, Pakistan",
   currentFocus: "Building scalable web applications with modern tech stack",
   
   code: {
@@ -145,7 +142,7 @@ const ahmad = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Blasty11/Blasty11/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AhmadR-11/AhmadR-11/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -155,7 +152,7 @@ const ahmad = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Blasty11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AhmadR-11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -167,16 +164,16 @@ const ahmad = {
 
 ### 🔥 LeetCode Streak & Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YDt2clcqcJ?theme=dark&font=Karma&ext=heatmap)
 
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYOUR_LEETCODE_USERNAME&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYOUR_LEETCODE_USERNAME&logo=leetcode&logoColor=yellow" alt="LeetCode Rating"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYDt2clcqcJ&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYDt2clcqcJ&logo=leetcode&logoColor=yellow" alt="LeetCode Rating"/>
 </p>
 
 </div>
 
-## 📈 Coding Activity
+<!-- ## 📈 Coding Activity
 
 <div align="center">
 
@@ -184,17 +181,17 @@ const ahmad = {
 <!-- WakaTime stats will appear here if you set it up -->
 <!--END_SECTION:waka-->
 
-</div>
+</div> -->
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Blasty11/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blasty11&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AhmadR-11/Insta-Clone.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadR-11&repo=Insta-Clone&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Blasty11/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blasty11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AhmadR-11/Recipe-Generator.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadR-11&repo=Recipe-Generator&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -203,9 +200,9 @@ const ahmad = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project 1](https://github.com/Blasty11/REPO_NAME)** | 🚀 Brief description of what it does | React, Node.js, MongoDB |
-| **[Project 2](https://github.com/Blasty11/REPO_NAME)** | 🎨 Brief description of what it does | Next.js, TypeScript, Tailwind |
-| **[Project 3](https://github.com/Blasty11/REPO_NAME)** | ⚡ Brief description of what it does | Python, FastAPI, PostgreSQL |
+| **[Project 1](https://github.com/AhmadR-11/Insta-Clone.git)** | 🚀 Brief description of what it does | React, Node.js, MongoDB |
+| **[Project 2](https://github.com/AhmadR-11/Recipe-Generator.git)** | 🎨 Brief description of what it does | Next.js, TypeScript, Tailwind |
+| **[Project 3](https://github.com/AhmadR-11/Facemask-Detection.git)** | ⚡ Brief description of what it does | Python, FastAPI, PostgreSQL |
 
 ## 📫 Let's Connect!
 
@@ -213,11 +210,10 @@ const ahmad = {
 
 I'm always interested in collaborating on exciting projects or discussing web development!
 
-**📧 Email:** YOUR-EMAIL@example.com  
-**💼 LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)  
-**🐦 Twitter:** [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)  
-**💻 LeetCode:** [YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME)  
-**🌐 Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+**📧 Email:** ahmadraza792003@gmail.com  
+**💼 LinkedIn:** [Ahmad Raza](https://www.linkedin.com/in/ahmad-raza-53482b316/)  
+**💻 LeetCode:** [Ahmad Raza](https://leetcode.com/YDt2clcqcJ)  
+**🌐 Portfolio:** [Go And Watch](https://ahmad123-portfolio.netlify.app)
 
 </div>
 
@@ -231,7 +227,7 @@ I'm always interested in collaborating on exciting projects or discussing web de
 
 ### 😄 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app/#1/' style="height: 400px;"/>
 
 </div>
 
@@ -239,7 +235,7 @@ I'm always interested in collaborating on exciting projects or discussing web de
 
 <div align="center">
 
-**⭐️ From [Blasty11](https://github.com/Blasty11) | Made with ❤️ and lots of ☕**
+**⭐️ From [Blasty11](https://github.com/AhmadR-11) | Made with ❤️ and lots of ☕**
 
 *Last Updated: 2026*
 
