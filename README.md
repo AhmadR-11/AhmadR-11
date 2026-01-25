@@ -1,218 +1,118 @@
 <div align="center">
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I'm%20Ahmad%20Raza%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ahmad;Full-Stack+Web+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  ### 🚀 Problem Solver | Full-Stack Developer | Tech Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Next.js%20%7C%20Node.js-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20Python-green?style=for-the-badge" />
-</p>
-
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-raza-53482b316/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ahmadraza792003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/YDt2clcqcJ">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Blasty11&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Blasty11?style=for-the-badge&color=blue" alt="Followers"/>
-</p>
-
+  <div align="center">
+    <a href="https://github.com/AhmadR-11">
+      <img src="https://img.shields.io/github/followers/AhmadR-11?label=Followers&style=social" alt="Followers" />
+    </a>
+    <a href="https://github.com/AhmadR-11">
+      <img src="https://img.shields.io/github/stars/AhmadR-11?label=Stars&style=social" alt="Stars" />
+    </a>
+    <br/>
+    <a href="https://komarev.com/ghpvc/?username=AhmadR-11&style=for-the-badge&color=blueviolet" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=AhmadR-11&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+    </a>
+  </div>
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Crafting+Clean+Code;Learning+New+Technologies;Solving+Complex+Problems" alt="Typing SVG" />
+</div>
 
-```typescript
-const ahmad = {
-  role: "Full-Stack Web Developer",
-  location: "🌍 Lahore, Pakistan",
-  currentFocus: "Building scalable web applications with modern tech stack",
-  
-  code: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
-    backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
-    languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-    tools: ["Git", "Docker", "VS Code", "Postman", "Figma"]
-  },
-  
-  architecture: {
-    design: ["Responsive Web Design", "SPA", "SSR", "PWA"],
-    principles: ["Clean Code", "SOLID", "DRY", "RESTful APIs"]
-  },
-  
-  currentlyLearning: ["AWS", "Microservices", "System Design"],
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
+## 👨‍� About Me
+
+```javascript
+const developer = {
+    name: "Ahmad Raza",
+    role: "Full-Stack Web Developer",
+    location: "Lahore, Pakistan 🇵🇰",
+    passion: "Building interactive & scalable digital experiences",
+    code: [
+        "Javascript", "TypeScript", "Python",
+        "React", "Next.js", "Node.js"
+    ],
+    tools: [
+        "Git", "Docker", "VS Code", "Figma"
+    ],
+    challenge: "Turning coffee ☕ into code �"
 };
 ```
 
-## 💼 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Full-Stack Applications
-- Modern dashboards with real-time data
-- E-commerce platforms
-- Social media applications
-- Admin panels & CMS systems
-
-</td>
-<td width="50%">
-
-### ⚡ Backend Services
-- RESTful & GraphQL APIs
-- Authentication & Authorization
-- Database design & optimization
-- Third-party integrations
-
-</td>
-</tr>
-</table>
-
-## 🛠️ Tech Stack
+## �️ Technology Stack
 
 <div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+| **Frontend** | **Backend** | **Database & Cloud** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
 
-## 📊 GitHub Statistics
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Blasty11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Blasty11&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blasty11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <a href="https://github.com/AhmadR-11">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=AhmadR-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadR-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
+  </a>
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadR-11&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
-### 📈 Contribution Graph
+<br/>
+
+## � LeetCode Progress
 
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blasty11&theme=react-dark&hide_border=true&area=true)
-
+    <img src="https://leetcard.jacoblin.cool/YDt2clcqcJ?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <br/>
+    <p>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYDt2clcqcJ&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYDt2clcqcJ&logo=leetcode&logoColor=yellow" alt="LeetCode Rating"/>
+    </p>
 </div>
 
-## 🧑‍💻 LeetCode Stats
+## � Featured Projects
 
-<div align="center">
+| **Project** | **Description** | **Stack** |
+|:---|:---|:---|
+| **[Insta Clone](https://github.com/AhmadR-11/Insta-Clone.git)** | A fully functional Instagram clone with real-time features. | React, Node.js, MongoDB |
+| **[Recipe Generator](https://github.com/AhmadR-11/Recipe-Generator.git)** | AI-powered recipe generator application. | Next.js, TypeScript, OpenAI |
+| **[Facemask Detection](https://github.com/AhmadR-11/Facemask-Detection.git)** | Computer vision based mask detection system. | Python, TensorFlow, OpenCV |
 
-### 🔥 LeetCode Streak & Progress
+<br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YDt2clcqcJ?theme=dark&font=Karma&ext=heatmap)
+## 📫 Connect With Me
 
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYDt2clcqcJ&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYDt2clcqcJ&logo=leetcode&logoColor=yellow" alt="LeetCode Rating"/>
-</p>
-
-</div>
-
-<!-- ## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- WakaTime stats will appear here if you set it up -->
-<!--END_SECTION:waka-->
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AhmadR-11/Insta-Clone.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadR-11&repo=Insta-Clone&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AhmadR-11/Recipe-Generator.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadR-11&repo=Recipe-Generator&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 💡 Notable Work
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Insta Clone](https://github.com/AhmadR-11/Insta-Clone.git)** | 🚀 Brief description of what it does | React, Node.js, MongoDB |
-| **[Recipe Generator](https://github.com/AhmadR-11/Recipe-Generator.git)** | 🎨 Brief description of what it does | Next.js, TypeScript, Tailwind |
-| **[Facemask Detection](https://github.com/AhmadR-11/Facemask-Detection.git)** | ⚡ Brief description of what it does | Python, FastAPI, PostgreSQL |
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on exciting projects or discussing web development!
-
-**📧 Email:** ahmadraza792003@gmail.com  
-**💼 LinkedIn:** [Ahmad Raza](https://www.linkedin.com/in/ahmad-raza-53482b316/)  
-**💻 LeetCode:** [Ahmad Raza](https://leetcode.com/YDt2clcqcJ)  
-**🌐 Portfolio:** [Go And Watch](https://ahmad123-portfolio.netlify.app)
-
+<div align="center"> 
+  <a href="mailto:ahmadraza792003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-raza-53482b316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ahmad123-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://leetcode.com/YDt2clcqcJ" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+  </a>
 </div>
 
 ---
-
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <p><i>"The only way to do great work is to love what you do."</i></p>
+  <p>Made with ❤️ by <b>Ahmad Raza</b></p>
 </div>
 
----
-
-<div align="center">
-
-**⭐️ From [Blasty11](https://github.com/AhmadR-11) | Made with ❤️ and lots of ☕**
-
-*Last Updated: 2026*
-
-</div>
