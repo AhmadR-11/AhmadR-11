@@ -138,18 +138,6 @@ const ahmad = {
 
 </div>
 
-<details>
-<summary>🏆 GitHub Achievements</summary>
-<br/>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AhmadR-11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-</details>
-
 ## 🧑‍💻 LeetCode Stats
 
 <div align="center">
@@ -216,8 +204,6 @@ I'm always interested in collaborating on exciting projects or discussing web de
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Random Dev Meme
 
 </div>
 
