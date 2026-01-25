@@ -138,14 +138,6 @@ const ahmad = {
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AhmadR-11/AhmadR-11/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 <details>
 <summary>🏆 GitHub Achievements</summary>
 <br/>
@@ -181,7 +173,7 @@ const ahmad = {
 <!-- WakaTime stats will appear here if you set it up -->
 <!--END_SECTION:waka-->
 
-</div> -->
+</div>
 
 ## 🎯 Featured Projects
 
@@ -200,9 +192,9 @@ const ahmad = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project 1](https://github.com/AhmadR-11/Insta-Clone.git)** | 🚀 Brief description of what it does | React, Node.js, MongoDB |
-| **[Project 2](https://github.com/AhmadR-11/Recipe-Generator.git)** | 🎨 Brief description of what it does | Next.js, TypeScript, Tailwind |
-| **[Project 3](https://github.com/AhmadR-11/Facemask-Detection.git)** | ⚡ Brief description of what it does | Python, FastAPI, PostgreSQL |
+| **[Insta Clone](https://github.com/AhmadR-11/Insta-Clone.git)** | 🚀 Brief description of what it does | React, Node.js, MongoDB |
+| **[Recipe Generator](https://github.com/AhmadR-11/Recipe-Generator.git)** | 🎨 Brief description of what it does | Next.js, TypeScript, Tailwind |
+| **[Facemask Detection](https://github.com/AhmadR-11/Facemask-Detection.git)** | ⚡ Brief description of what it does | Python, FastAPI, PostgreSQL |
 
 ## 📫 Let's Connect!
 
@@ -226,8 +218,6 @@ I'm always interested in collaborating on exciting projects or discussing web de
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😄 Random Dev Meme
-
-<img src='https://codermemes.vercel.app/#1/' style="height: 400px;"/>
 
 </div>
 
