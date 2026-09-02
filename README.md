@@ -7,8 +7,8 @@
 
 <!-- ANIMATED TYPING -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+Engineer+%7C+3%2B+Years+Experience;☁️+AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;🤖+Building+AI-Powered+Autonomous+Systems;⚡+Next.js+%7C+NestJS+%7C+Node.js+%7C+Python;🧠+LangGraph+%7C+OpenAI+%7C+Vector+Databases" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+3%2B+Years+Experience;%E2%98%81%EF%B8%8F+AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;%F0%9F%A4%96+Building+AI-Powered+Autonomous+Systems;%E2%9A%A1+Next.js+%7C+NestJS+%7C+Node.js+%7C+Python;%F0%9F%A7%A0+LangGraph+%7C+OpenAI+%7C+Vector+Databases" alt="Typing SVG" />
   </a>
 </div>
 
@@ -77,13 +77,13 @@ const Ahmad = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmadR-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmadR-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
   <img width="49%" src="https://streak-stats.demolab.com?user=AhmadR-11&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA" />
 
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadR-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmadR-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 </div>
 
 ---
@@ -93,7 +93,7 @@ const Ahmad = {
 ### 🎓 Projectify — AI-Powered FYP Management Platform
 > Multi-tenant ecosystem with 4 user-role portals, real-time messaging, AI plagiarism detection
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AhmadR-11&repo=Insta-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AhmadR-11)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AhmadR-11&repo=Insta-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AhmadR-11)
 
 <table>
 <tr>
@@ -274,7 +274,7 @@ const Ahmad = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadR-11&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=302b63" />
+  <img width="95%" src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=AhmadR-11&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=302b63" />
 </div>
 
 ---
