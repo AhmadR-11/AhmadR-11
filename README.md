@@ -10,6 +10,8 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+3%2B+Years+Experience;%E2%98%81%EF%B8%8F+AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;%F0%9F%A4%96+Building+AI-Powered+Autonomous+Systems;%E2%9A%A1+Next.js+%7C+NestJS+%7C+Node.js+%7C+Python;%F0%9F%A7%A0+LangGraph+%7C+OpenAI+%7C+Vector+Databases" alt="Typing SVG" />
   </a>
+
+  
 </div>
 
 <br/>
