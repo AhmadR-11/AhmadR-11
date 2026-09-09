@@ -1,26 +1,27 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Ahmad%20Raza&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20DevOps%20%7C%20Cloud&descSize=18&descAlignY=60&descAlign=50&descFontColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ahmad%20Raza&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20%7C%20Full-Stack%20%7C%20DevOps%20%7C%20Cloud&descSize=18&descAlignY=62&descAlign=50&descFontColor=a78bfa" />
 
 </div>
 
 <!-- ANIMATED TYPING -->
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+3%2B+Years+Experience;%E2%98%81%EF%B8%8F+AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;%F0%9F%A4%96+Building+AI-Powered+Autonomous+Systems;%E2%9A%A1+Next.js+%7C+NestJS+%7C+Node.js+%7C+Python;%F0%9F%A7%A0+LangGraph+%7C+OpenAI+%7C+Vector+Databases" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+AI+Automation+%26+Agentic+Workflows+%28n8n%2C+LangGraph%29;%E2%9A%A1+Full-Stack+Engineering+%28Next.js%2C+Node.js%2C+Python%29;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps+Infrastructure+%28AWS%2C+Terraform%2C+Docker%2C+K8s%29;%F0%9F%A7%A0+Building+Production-Grade+Autonomous+AI+Pipelines" alt="Typing SVG" />
   </a>
-
-  
 </div>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL & TECH BADGES -->
 <div align="center">
 
   <a href="https://www.linkedin.com/in/ahmad-raza-53482b316/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://n8n.io">
+    <img src="https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   </a>
   <a href="https://ahmad123-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -39,7 +40,7 @@
 
 <br/>
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE VIEWS & FOLLOWERS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmadR-11&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
   &nbsp;
