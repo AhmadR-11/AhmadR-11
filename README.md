@@ -96,17 +96,29 @@
 
 ---
 
-## 🏆 Stats Snapshot
+## 🏆 Executive Engineering Metrics
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmadR-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-310%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+![Public Repositories](https://img.shields.io/badge/Public_Repositories-32-00C853?style=for-the-badge&logo=github&logoColor=white)
+![Commit Activity](https://img.shields.io/badge/Commit_Status-Active-1A1F2C?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats-eight-nu.vercel.app/api?username=AhmadR-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
   <img width="49%" src="https://streak-stats.demolab.com?user=AhmadR-11&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA" />
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmadR-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs?username=AhmadR-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 </div>
 
 ---
