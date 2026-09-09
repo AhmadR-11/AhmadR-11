@@ -51,28 +51,48 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const Ahmad = {
-  name        : "Ahmad Raza",
-  title       : "Software Engineer — Full-Stack · DevOps · Cloud",
-  location    : "Lahore, Pakistan 🇵🇰",
-  phone       : "+92 326-4226414",
+<div align="center">
 
-  experience  : {
-    fullStack : "3+ yrs → Next.js · NestJS · Node.js · MongoDB · PostgreSQL",
-    devOps    : "2+ yrs → AWS · Terraform · Packer · Docker · Kubernetes",
-    ai        : "RAG pipelines · LangGraph agents · OpenAI · Vector DBs",
-  },
+![Open for Opportunities](https://img.shields.io/badge/Status-Open_for_Opportunities-00C853?style=for-the-badge&logo=github&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan_%F0%9F%87%B5%F0%9F%87%B0-1A1F2C?style=for-the-badge)
+![Education](https://img.shields.io/badge/Education-BS_Software_Engineering_%40_FAST--NUCES-7C3AED?style=for-the-badge)
 
-  currentlyBuilding : [
-    "Autonomous AI recruitment pipeline (TalentFlow AI)",
-    "CI/CD self-healing agent (PatchPilot)",
-  ],
+</div>
 
-  education   : "BS Software Engineering @ FAST-NUCES (2022 – 2026)",
-  openTo      : ["Freelance Projects", "Full-Time Roles", "Collaborations"],
-};
-```
+<br/>
+
+> **Software Engineer** specializing in **AI Automation (n8n)**, **Autonomous Agentic Systems**, **Full-Stack Platforms**, and **Cloud DevOps Infrastructure**. Passionate about transforming complex business workflows into self-healing, automated digital ecosystems.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation Systems
+- **n8n Workflows**: Enterprise AI automation, webhooks, multi-step API integrations
+- **Agentic AI**: Autonomous agents built with **LangGraph**, **OpenAI GPT-4o**, and **AutoGen**
+- **Vector Search**: Semantic search & RAG pipelines using **Pinecone**, **Qdrant**, and **pgvector**
+
+</td>
+<td width="50%">
+
+### ⚡ Full-Stack & Cloud DevOps
+- **Modern Web**: High-performance applications with **Next.js 14**, **NestJS**, **Node.js**, and **Python**
+- **Databases**: Relational & NoSQL data models using **PostgreSQL**, **MongoDB**, and **Redis**
+- **Cloud Infrastructure**: Immutable infrastructure with **AWS**, **Terraform**, **Docker**, and **Kubernetes**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| 🚀 Currently Engineering | 🤝 Open For |
+| :--- | :--- |
+| • **TalentFlow AI** — Autonomous recruitment pipeline using n8n & OpenAI<br/>• **PatchPilot** — Self-healing CI/CD DevOps AI Agent | • **Freelance AI & Full-Stack Projects**<br/>• **Full-Time Engineering Roles**<br/>• **AI Automation Collaborations** |
+
+</div>
 
 ---
 
