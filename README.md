@@ -128,7 +128,6 @@
 ### 🎓 Projectify — AI-Powered FYP Management Platform
 > Multi-tenant ecosystem with 4 user-role portals, real-time messaging, AI plagiarism detection
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AhmadR-11&repo=Insta-Clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/AhmadR-11)
 
 <table>
 <tr>
@@ -287,112 +286,70 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Enterprise Tech Stack
 
 <div align="center">
 
-| Layer | Technologies |
+| Architectural Domain | Technologies & Infrastructure |
 |:---:|:---|
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white) |
-| **Vector DBs** | ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-6f42c1?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **Cloud & IaC** | ![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white) ![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white) |
-| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=white) ![Cohere](https://img.shields.io/badge/Cohere-39594e?style=flat-square) |
-| **DevOps** | ![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **🤖 AI & Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white) ![Cohere](https://img.shields.io/badge/Cohere-39594E?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-6F42C1?style=for-the-badge) |
+| **⚡ Full-Stack Core** | ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **🗄️ Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 💼 Experience & Career Roadmap
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=AhmadR-11&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=302b63" />
-</div>
+<table>
+<tr>
+<td width="25%">
 
----
+#### 🎓 2022 – 2026
+**FAST-NUCES**
+- BS Software Engineering
+- Data Structures, OS, Cloud & Distributed Systems
 
-## 🐍 Watch the Snake Eat My Contributions
+</td>
+<td width="25%">
 
-<div align="center">
+#### 💼 Jun 2025
+**Nexium**
+- Full-Stack & DevOps Engineer
+- Microservices, CI/CD, React, Node.js & Cloud Infra
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadR-11/AhmadR-11/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadR-11/AhmadR-11/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmadR-11/AhmadR-11/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+</td>
+<td width="25%">
 
-</div>
+#### 🤖 Jan 2026
+**AI & Automation**
+- Independent AI Engineering
+- n8n Workflows, Agentic AI, Autonomous Pipelines
 
-> **To activate the snake:** Create a GitHub Action in your profile repo at `.github/workflows/snake.yml` — see the setup guide below.
+</td>
+<td width="25%">
 
-<details>
-<summary>⚡ <b>Click to set up the snake animation (one-time setup)</b></summary>
+#### 🎓 Jun 2026
+**Graduation Target**
+- Degree Completion
+- Open for Full-Time & High-Impact Engineering Roles
 
-Create `.github/workflows/snake.yml` in your `AhmadR-11/AhmadR-11` repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience Timeline
-
-```
-2022 ─────────────────────────────────────────────────────────── 2026
-
- Aug 2022          Jun 2025        Jan 2026         Jun 2026
-    │                  │               │                │
-    ▼                  ▼               ▼                ▼
-┌───────────┐    ┌─────────────┐  ┌───────────┐   ┌──────────┐
-│ FAST-NUCES│    │   Nexium    │  │ Freelance │   │Graduation│
-│   BS SE   │───▶│ Full-Stack  │─▶│ & Personal│──▶│ Expected │
-│  Started  │    │  Engineer   │  │ Projects  │   │ Jun 2026 │
-└───────────┘    └─────────────┘  └───────────┘   └──────────┘
-```
-
----
-
-## 🧠 AI Dev Tools
+## 🧠 AI Engineering Environment
 
 <div align="center">
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20IDE-1a1a2e?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285f4?style=for-the-badge&logo=google&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-1A1A2E?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
@@ -401,7 +358,7 @@ jobs:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Exceptional&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Exceptional&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 **📍 Lahore, Pakistan &nbsp;·&nbsp; 📞 +92 326-4226414 &nbsp;·&nbsp; 📧 ahmadraza792003@gmail.com**
 
