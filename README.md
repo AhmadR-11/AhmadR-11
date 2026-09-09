@@ -90,7 +90,7 @@
 
 | 🚀 Currently Engineering | 🤝 Open For |
 | :--- | :--- |
-| • **TalentFlow AI** — Autonomous recruitment pipeline using n8n & OpenAI<br/>• **PatchPilot** — Self-healing CI/CD DevOps AI Agent | • **Freelance AI & Full-Stack Projects**<br/>• **Full-Time Engineering Roles**<br/>• **AI Automation Collaborations** |
+| • [**TalentFlow AI**](https://github.com/AhmadR-11/TalentFlow-AI) — Autonomous recruitment pipeline using n8n & OpenAI<br/>• [**NicheRadar**](https://github.com/AhmadR-11/NicheRadar) — AI-powered market & niche discovery platform | • **Freelance AI, Full-Stack & DevOps Projects**<br/>• **Full-Time Engineering & DevOps Roles**<br/>• **AI Automation & Cloud Collaborations** |
 
 </div>
 
@@ -149,7 +149,7 @@
 
 ---
 
-### 🤖 TalentFlow AI — Autonomous Recruitment Pipeline
+### 🤖 [TalentFlow AI](https://github.com/AhmadR-11/TalentFlow-AI) — Autonomous Recruitment Pipeline
 > Zero-human-intervention hiring: sourcing → screening → ranking, all via AI
 
 <table>
@@ -182,18 +182,18 @@
 
 ---
 
-### 🛠️ PatchPilot — Autonomous DevOps AI Agent
-> Intercepts broken CI/CD pipelines, patches code with LLMs, opens PRs automatically
+### 🎯 [NicheRadar](https://github.com/AhmadR-11/NicheRadar) — AI-Powered Niche & Market Intelligence
+> Automated market & niche discovery platform leveraging AI data synthesis and trend analytics
 
 <table>
 <tr>
 <td>
 
 **✦ What it does**
-- Hooks into failed CI/CD runs and pulls error logs automatically
-- LangGraph agent analyzes stack traces and surgically patches broken code
-- Auto-opens pull requests with fix description
-- Streams real-time reasoning trace to a live dashboard via WebSockets
+- Automated market & niche discovery platform leveraging AI web scraping & LLM analysis
+- Analyzes trend signals, search volume, competitor landscape, and monetization potential
+- Generates structured market intelligence reports with automated score metrics
+- n8n & OpenAI orchestration for background data ingestion & synthesis
 
 </td>
 <td>
@@ -201,10 +201,10 @@
 **⚡ Tech Stack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
